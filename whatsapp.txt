@@ -9,3 +9,8 @@ This is watsapp code:
 4.attachements(image,audio,video) code
 
 5.hiding the last seen
+
+6. adding the audio call feature
+
+7.adding the video call feature
+
