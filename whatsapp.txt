@@ -7,3 +7,5 @@ This is watsapp code:
 3.last seen code
 
 4.attachements(image,audio,video) code
+
+5.hiding the last seen
